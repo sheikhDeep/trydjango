@@ -1,0 +1,2 @@
+# trydjango
+first Django project
